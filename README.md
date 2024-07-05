@@ -1,6 +1,12 @@
 # screen_notes
 To know about basic commands and shortcut keys for `screen` in Ubuntu terminal 
 
+## To install `screen` 
+Use following command to install `screen`
+```bash
+sudo apt install screen
+```
+
 
 ## Commands
 | Command | Action |
