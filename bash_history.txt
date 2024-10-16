@@ -1,351 +1,101 @@
-mkdir ./2022/{01..12}
-pip3 install dash_bootstrap_compone
-ssh git@github.com:bbrawar/ismr_processor.git
-temp
-mkdir temp1
-tree
-git push -u origin main
-rm -rf *
-ismr_processor/
-vi publications2.html
-git colone git@github.com:bbrawar/ismr_processor.git
-python3 data_generator.py
-jupyter
+cp -r * ./misc/
+cp -r *.py ./misc/
 cp * ./misc/
-sudo gparted
-python3 app6.py
-teamviewer &
-vi data_gen2.py
-gh clone misc
-rm -rf ionex_reader/
-git --version
-mkdir rtk
-help
-sbf2sbf
-sudo python ./installer/fix_symlink.py
-du -h ./ > sumanjit_backup.txt
-warp-cli  connect
-gps_tec 
-jupyter-nbconvert --to script IPP_NavIC.ipynb 
-mkdir github
-git add ionex_reader/ionex.py 
-sudo netdiscover 
-RxTools/bin/
-rm -rf SDC3_BAND_121MHz_CH_150_4HR_2min.ms.tar.gz casa/
-vi ionex_reader/ionex_reader.egg-info/SOURCES.txt 
-ssh -XY starc@10.205.
-/home/bhuvi/temp/
-mv 
-sudo apt update && sudo apt upgrade -y
-wine
-mkdir files_gemini
-git clone git@github.com:bbrawar/ionex_reader.git
-touch process_ismr_files/process_ismr_files/main.py
-sudo usermod -a -G lp $USER
-genome-settings
-vi test1.py 
-find . -type d -empty -delete
-jupyter-dejavu 
-pandoc main.tex -o book.docx
-sudo apt install git
-ython3 -m georinex.r
-temp/
-vi data.txt
-git@github.com:bbrawar/ismr_processor.git
-python3 app1.py 
-vi publications5.html
-code
-vi app4.py
-mkdir rinex ismr gps_novatel
-python3 data.py 
-mkdir ./2021/{01..12}
-temp1
-./cursor-0.41.3x86_64.AppImage 
-touch ismr_processor/{__init__.py ismr_processor.py}
-warp-cli connect
-make
-ftp ftp://gpsfree.gm.ingv.it/OUTGOING/RINEX30/RING/
-github/ionex_reader/
-mkdir -p process_ismr_files/process_ismr_files
-apt list --upgradable
-pip3 uninstall ionex_reader
-ls -l
-. install.sh
-ssh-keygen -t rsa -C "LabPC_bhuvi"
-pip3 install matplotlib
-touch setup.py README.md .gitignore
-ls -al -/.ssh
-find ./ -name "*.ipynb" -exec grep -l "%store IPP_GPS" {} +
-grep -rnw ./ -e 'scinti_S4c2020_2022.csv'
-git commit -m 'files added'
-mkdir --help
-sudo apt install xournalpp
-mkdir temp
-python3 live_fft_plot.py
-vi ionex_reader/ionex_reader.egg-info/top_level.txt 
-vi memtest86+.elf 
-TREE
-vi data_plot.py
-vi labpc_bhuvi
-python3 app7.py 
-vi README.md 
-vi ionex.py 
-python3 app8.py 
-tree /f /a septentrio_sumanjit.txt
-mkdir gnss_school
-mv --help
-python3 -m pytest
-sudo apt install gh
-gh
-python3 ./ONNX-CenterSnap-6D-Pose-and-Shape-Estimation/realsense_draw_pose3d.py 
-git clone https://github.com/ibaiGorordo/ONNX-CenterSnap-6D-Pose-and-Shape-Estimation.git
-rm data.txt
-sudo apt install netdiscover 
-
-git commit -m "New function added"
-gh repo create misc --private
-jupyter-nbconvert 
-iython3
-du -h ./ septentrio_disk.txt
-gedit filelist2
-vi styles.css
-vlf1
-python3 move_and_join_files.py 
-cp -r  * ./misc/
-git add ionex_reader/*
-ionex_reader/
-ls -al ~/.ssh
-SOPAC_data/
-/bin/python "/media/bhuvi/Bhuvi/script_trials/class Computer.py"
-vi ionex_reader/__init__.py 
-vi ionex_reader/ionex_reader.egg-info/PKG-INFO 
-warp-cli  disconnect
-ismr_processor
-ssh-keygen -R 10.205.2.175
-sudo -i
-rm -rf ismr_processo*
-warp-cli disconnect
-jupyter-lab
-wine ~/GPS_Gopi_v3.5/GPS_TEC.exe 
-/media/bhuvi/Analysis/
-vi move_and_join_files.py
-winecfg
-mkdir ./2023/{01..12}
-sudo apt install libfuse2
-vi generate_test_data.py
-python3 app4.py 
-du -h ./ > septentrio_disk.txt
-sudo apt update && sudo apt upgrade 
-vi publications3.html
-vi live_fft_plot.py
-~/Downloads/Softwares_ubuntu22_04/cursor-0.41.3x86_64.AppImage 
-wine ./GPS_Gopi_v3.5/GPS_TEC.exe 
-rm *.txt
-alias
-ls /
-gh repo misc --clone
-misc
-rm data.txt 
-vi data_generator.py 
-mkdir -p ismr_processor/ismr_processor/ tests
-git clone https://github.com/bbrawar/ionex_reader.git
-rm ismr_processo*
-mkdir {2021..2024}
-gh add .
-python3 data_gen2.py 
-sudo apt upgrade 
-ip a
-github/
-vi data_100.py
-gnome-settings
-zip
-gnome-control-center 
-ifconfig 
-rm ionex_reader/
-files_gemini/
-find . -type d -empty
-vi data.txt 
-python generate_test_data.py
-rm -rf temp
-vi data_plot.py 
-python3 combine.py 
-git add README.md 
-vi combine.py
-git config --list
-git add ionex_reader
-pip3 install ge
-git commit -m 'init file updated'
-vi script.js
-python3 app3.py 
-vi ionex_reader/ionex_reader.egg-info/dependency_links.txt 
-python3 data_plot2.py 
-git config --global user.name "Bhuvnesh Brawar"
-../../RINEX/2021/
-ftp
-git commit -m "Author updated in readme"
-git config --global user.email "bbrawar@gmail.com"
-pandoc -o ./../out.docx -t docx main.tex
-rm sikar.webp 
-git add ionex_reader/README.md 
-touch process_ismr_files/process_ismr_files/utils.py
-git status
-tree -H ./ > septentrio_disk.html
-pwd
-rm -rf ismr_processor/
-grep -rnw './' -e 'NavIC_S4c2020_2022.csv'
-rm *.py
-grep -rIl 'NavIC_S4c2020_2022.csv'
-sbf2ismr
-zipp
-vi README.md
-pip3 install georinex
-mkdir ./2024/{01..12}
-sudo apt install pandoc
-cat x* > test.zip
-sudo apt update
-zip 24132
-git add *
-sudo apt install wintile
- 
-vi setup.py 
-matlab
-pip3 install .
-pip3 install ionex_reader
-git clone https://github.com/bbrawar/ismr_processor.git
-/DATA/
-vi ./ONNX-CenterSnap-6D-Pose-and-Shape-Estimation/requirements.txt 
-/media/bhuvi/Analysis/PhD_Processing/GPS/ccdf/
-cd
-python3
-vi known_hosts
-mkdir 
-git init misc
-cp -r  *.py ./misc/
-python3 combine1.py 
-/DATA/Intro_to_EM_by_Prof_AD/
-sudo find / -name dwagent -type f
-git checkout main
-git
-IPP/
-mkdir {23209..23220}
-sudo netdiscover
-python3 app5.py 
-backup2/Mohit_New/
-pip3 install dash
-gh repo --clone 
-vi combine1.py
-python3 data.txt
-ifconfig -a
-./configure --with-hpppddir=/usr/share/ppd/HP --libdir=/usr/lib64 --prefix=/usr --enable-network-build --enable-scan-build --enable-fax-build --enable-dbus-build --disable-qt4 --enable-qt5 --disable-class-driver --enable-doc-build --disable-policykit --disable-libusb01_build --disable-udev_sysfs_rules --enable-hpcups-install --disable-hpijs-install --disable-foomatic-ppd-install --disable-foomatic-drv-install --disable-cups-ppd-install --enable-cups-drv-install --enable-apparmor_build --enable-hplip_testing_flag
-vi app1.py
-vi data.py
-find . -type d -empty 
-ionex_reader
-tree -h --du -o septentrio_disk.txt
-vi ./ONNX-CenterSnap-6D-Pose-and-Shape-Estimation/realsense_draw_pose3d.py 
-find ./ -name "*.m" -exec grep -l "S_{4_C}" {} +
-git branch -M main
-rxassistant
-mkdir files_details
-chmod +x install.sh 
-./NovAtelApplicationSuite_64bit.AppImage 
-sndl/
-touch process_ismr_files/setup.py
-gh repo misc -c
-ifconfig
-vi new.html
-rm -rf ionex_reader
-vi data_plot2.py
-pip install --upgrade scipy
-ssh-keygen
-python3 -m georinex.read sndl1260.21d.Z
-git clone ionex_reader/
-split -b 3G 2024_btech_lab_demo.zip 
-touch process_ismr_files/README.md
-vi data_generator.py
-sudo apt install wine
-gnss_school/
-vi ionex_reader/ionex.py 
-ls file*
-cat xa* > test.zip
-git commit -m "function discription added"
-python3 data_plot.py 
-hplip-3.22.6
-git clone git@github.com:bbrawar/ismr_processor.git
-sudo apt install nettools
-python_progr
-mkdir -r ./202*/{01..12}
-git git@github.com:bbrawar/ismr_processor.git
-find ./ -name "*.m" -exec grep -l "ROT (dTEC/dt)" {} +
-casaPC 
-ls
-pip install .
-gedit copy_rename.py 
-cat x*
-git init
-git push --force
-ipa
-sudo systemctl restart dwagent.service 
-ftp ftp://data-out.unavco.org/pub/rinex/obs/
-unzip RTKLIB-master.
-jupyter-lab 
-tree -H ./ > septentrio_sumanjit.html
-casaPC
-ls /etc/netplan/
-git colon git@github.com:bbrawar/ismr_processor.git
-htop
-../..
-pip3 install flask
-sudo apt install xpp
-python3 test1.py 
-vi /etc/netplan/01-network-manager-all.yaml 
-git push
-clear
-wget --ftp-user anonymous --ftp-password bbrawar -r ftps://gdc.cddis.eosdis.nasa.gov/vlbi/ivsdata/ngs/
-vi .bashrc 
-mv python_programs gnss_school/
-rm config-5.15.0-67-generic 
-touch process_ismr_files/process_ismr_files/__init__.py
-git add .
-vi fname.txt
-vi ionex_reader/ionex_reader.egg-info/requires.txt 
-vi index.html
-pip3 uninstall ismr_processor
-version
-vi app2.py
-gh auth login
-2021
-/bin/python /media/bhuvi/Bhuvi/P1_GAGAN/copy_rename.py
-gh repo -c misc
-git add misc
+df -h
 du -h --max-depth=1 ~/ | grep -E '^[0-9.]+[KMG]?\s+[^/]+/' > directory_structure.txt
-jupyter-nbconvert --to-script IPP_NavIC.ipynb 
-python3 app2.py 
-files_details/
-python3 data_100.py 
-vi app3.py
-source .bashrc 
-gedit labpc_bhuvi.pub 
-..
-reset
-sudo apt install sshpass
-mkdir ./202*/{01..12}
-gedit
-~/Downloads/Softwares_ubuntu22_04/
-/home/bhuvi/Documents/temp/
-git add ./ionex_reader/__init__.py 
-python3 app.py
-rtk
+du -h ./ > septentrio_disk.txt
+du -h ./ > sumanjit_backup.txt
+du -h ./ septentrio_disk.txt
+find . -type d -empty
+find . -type d -empty -delete
+find ./ -name "*.ipynb" -exec grep -l "%store IPP_GPS" {} +
+find ./ -name "*.m" -exec grep -l "ROT (dTEC/dt)" {} +
+find ./ -name "*.m" -exec grep -l "S_{4_C}" {} +
+gh
+gh add .
+gh auth login
+gh clone misc
+gh repo --clone
+gh repo -c misc
+gh repo create misc --private
+gh repo misc --clone
+gh repo misc -c
+git
+git --version
+git add .
+git add ./ionex_reader/__init__.py
+git add *
+git add ionex_reader
+git add ionex_reader/*
+git add ionex_reader/ionex.py
+git add ionex_reader/README.md
+git add misc
+git add README.md
+git branch -M main
+git checkout main
+git clone git@github.com:bbrawar/ionex_reader.git
+git clone git@github.com:bbrawar/ismr_processor.git
+git clone https://github.com/bbrawar/ionex_reader.git
+git clone https://github.com/bbrawar/ismr_processor.git
+git clone ionex_reader/
+git commit -m 'files added'
+git config --global user.email "bbrawar@gmail.com"
+git config --global user.name "Bhuvnesh Brawar"
+git config --list
+git git@github.com:bbrawar/ismr_processor.git
+git init
+git init misc
 git merge main
-tree -h --du -o septentrio_disk.txt ./
-rm SDC3_BAND_121MHz_CH_150_4HR_2min.ms.tar.gz casa/
-echo help
-sudo su
-vi copy_rename.py
-pip install matplotlib==3.7.3
+git push
+git push --force
+git push -u origin main
 git remote add origin git@github.com:bbrawar/misc.git
-mkdir tests
-ftp://gpsfree.gm.ingv.it/OUTGOING/RINEX30/RING/
-../../backup/
-vhf 
-~/.ssh
+git status
+git@github.com:bbrawar/ismr_processor.git
+gnome
+gnome-control-center
+grep -rIl 'NavIC_S4c2020_2022.csv'
+grep -rnw ./ -e 'scinti_S4c2020_2022.csv'
+grep -rnw './' -e 'NavIC_S4c2020_2022.csv'
+jupyter-nbconvert --to script IPP_NavIC.ipynb
+make
+mkdir -p ismr_processor/ismr_processor/ tests
+mv --help
+mv python_programs gnss_school/
+pactl load-module module-bluetooth-discover
+pactl unload-module module-bluetooth-discover
+pandoc
+pandoc -o ./../out.docx -t docx main.tex
+pandoc main.tex -o book.docx
+python3 -m georinex.read sndl1260.21d.Z
+python3 -m pytest
+python3 ./ONNX-CenterSnap-6D-Pose-and-Shape-Estimation/realsense_draw_pose3d.py
+rm -rf SDC3_BAND_121MHz_CH_150_4HR_2min.ms.tar.gz casa/
+rm SDC3_BAND_121MHz_CH_150_4HR_2min.ms.tar.gz casa/
+split -b 3G 2024_btech_lab_demo.zip
+ssh git@github.com:bbrawar/ismr_processor.git
+ssh git@github.com:bbrawar/ismr_processor.git
+ssh-keygen
+ssh-keygen -R 10.205.2.175
+ssh-keygen -t rsa -C "LabPC_bhuvi"
+sudo blkid
+sudo blkid
+sudo chown -R $USER /DATA/
+sudo find / -name dwagent -type f
+sudo systemctl restart dwagent.service
+sudo usermod -a -G lp $USER
+sudo vi /etc/fstab
+systemctl restart bluetooth.*
+tar xvfz hplip-3.22.6.tar.gz
+touch downloader.py
+touch ionex.py
+touch ismr_processor/{__init__.py ismr_processor.py}
+touch setup.py README.md .gitignore
+tree -h --du -o septentrio_disk.txt
+tree -h --du -o septentrio_disk.txt ./
+tree -H ./ > septentrio_disk.html
+tree -H ./ > septentrio_sumanjit.html
+tree /f /a septentrio_sumanjit.txt
+unzip RTKLIB-master.zip
+wget --ftp-user anonymous --ftp-password bbrawar -r ftps://gdc.cddis.eosdis.nasa.gov/vlbi/ivsdata/ngs/2023
+winecfg
