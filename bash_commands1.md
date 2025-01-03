@@ -14,6 +14,12 @@ find . -type d -empty           # Find empty directories.
 find . -type d -empty -delete   # Find and delete empty directories.
 ```
 ---
+## Workspace
+```bash
+gsettings set org.gnome.shell.extensions.dash-to-dock isolate-workspaces true   #To isolate workspace
+gsettings reset org.gnome.shell.extensions.dash-to-dock isolate-workspaces      #Revert effect
+```
+---
 ## File Search Operations
 ```bash
 find ./ -name "*.ipynb" -exec grep -l "%store IPP_GPS" {} +  # Search Jupyter notebooks for a specific stored variable.
